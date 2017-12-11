@@ -1,5 +1,6 @@
 # SantaToken
 SantaToken contracts and related files
+
 Ho ho ho! Have you been good? Then CryptoSanta may bring you a present!
 
 ## AIRDROP – SantaToken (SANTA)
@@ -10,7 +11,7 @@ Up to 12000 SantaTokens total
 
 NO posts -- NO tweets -- NO signatures – NO googlesheets – No hassle
 
-To participate, write CryptoSanta a letter. How? Just open contract SantaToken2017 and provide your Ethereum wallet address. Wait for a while and at some time before Christmas, CryptoSanta will come and drop 12 brand new shiny SantaTokens in your wallet! 
+To participate, write CryptoSanta a letter. How? Just open contract SantaToken2017 0xD3B227b8623eFD2759b232AacB47d02f214EF134 and provide your Ethereum wallet address. Wait for a while and at some time before Christmas, CryptoSanta will come and drop 12 brand new shiny SantaTokens in your wallet! 
 
 That's true – 12 SantaTokens, at face value of 1 ETH each! But only good kids will get a free gift form CryptoSanta!
 
@@ -25,7 +26,7 @@ Request you FREE SantaTokens NOW ! Merry Xmas everyone!
 The airdrop will happen on or before December 25, 2017. We will issue SantaTokens in the order bids were received, until all 12000 SantaTokens run out. For each 1 ETH in your wallet, 1 SantaToken will be issued. Maximum limit of SantaTokens you can get is 12 (face value of 12 ETH). If you do not have 12 ETH in your wallet, you will get less SantaTokens. 
 
 Terms of the placement: 
-- You must submit an airdrop request at # by providing your ETH wallet;
+- You must submit an airdrop request to Ethereum contract 0xD3B227b8623eFD2759b232AacB47d02f214EF134 by providing your ETH wallet number;
 - No payment or action is required to collect SantaToken;
 - You may cancel your airdrop at any time;
 - Requests for SantaTokens are collected beginning immediately and will no longer be accepted on or before UTC-9 23:59 December 24, 2017 at the sole discretion of the Santa2017 contract administrator;
