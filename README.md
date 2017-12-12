@@ -42,6 +42,6 @@ One possible way to do so is:
 bid
 6. Select a method that you will use to log on to your wallet. 
 7. Press WRITE
-8. Select Amount=0 and Gas Limit=22000 (at least)
+8. Select Amount=0 and Gas Limit=68542 (at least)
 9. Press GENERATE TRANSACTION
 10. Press YES I AM SURE – MAKE TRANSACTION
